@@ -9,9 +9,9 @@ and increasing interest rates made companies rethink their retention strategies
 and lay off large amount of employees
 
 ## Purpose
-• Analyze overall layoff data and get insights of where most layoffs happened 
+• Analyze overall layoff data and get insights of where most layoffs happened\
 • Deep dive into Meta (most layoffs) data to draw observations on department
-and Visa status of the meta employees
+and Visa status of the meta employees\
 • Which attributes to look for when searching for the job
 
 ## Data
