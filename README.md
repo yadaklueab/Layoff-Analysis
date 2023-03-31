@@ -1,6 +1,5 @@
 # Layoff-Analysis
 
-_214233_layoff_hero.jpeg
 ![Alt text](_214233_layoff_hero.jpeg)
 
 
