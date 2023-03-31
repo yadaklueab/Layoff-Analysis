@@ -1,5 +1,9 @@
 # Layoff-Analysis
 
+_214233_layoff_hero.jpeg
+![Alt text](_214233_layoff_hero.jpeg)
+
+
 • Tech companies saw potential profits during pandemic and started hiring spree
 • Global economy uncertainty along with high inflation rate, supply chain issues,
 and increasing interest rates made companies rethink their retention strategies
